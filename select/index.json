@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "TuNGSTeN（feat. mizuki）",
+  "base_artist": "澤野　弘之",
+  "createdAt": "2026-02-14T09:02:35.392375Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TuNGSTeN (feat. mizuki)",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/01_TuNGSTeN_(feat._mizuki)_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TuNGSTeN feat. Mizuki",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_TuNGSTeN_feat._Mizuki_澤野弘之.txt"
+    }
+  ]
+}
